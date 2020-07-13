@@ -1,0 +1,5 @@
+guru:
+  jms:
+    username: jmsKhalil
+    password: mskhalil123
+    url: jmstestest
